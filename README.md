@@ -1,4 +1,4 @@
-# -7DaysOfCode---L-gica-JS-
+# -7DaysOfCode 1/7 LÓgica-JS-
 # Comparação de Valores e Tipos em JavaScript
 
 Este projeto demonstra a comparação de valores e tipos de variáveis em JavaScript usando operadores de igualdade frouxa (`!=`) e a função `console.log` para imprimir resultados no console.
@@ -74,7 +74,7 @@ if (numeroUm !== stringUm) {
 <br>
 
 
-Este projeto está licenciado sob a [MIT]() License.
+Este projeto está licenciado sob a [MIT](https://github.com/julianamaula/-7DaysOfCode---L-gica-JS-/new/main) License.
 
 <div align="center">
 Construído com 💖 por Juliana de Maula
